@@ -1,0 +1,14 @@
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.AssemblyInfoInputs.cache
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.AssemblyInfo.cs
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.csproj.CoreCompileInputs.cache
+H:\Asztali\feladatsor_ciklusok\bin\Debug\net10.0\feladatsor_ciklusok.exe
+H:\Asztali\feladatsor_ciklusok\bin\Debug\net10.0\feladatsor_ciklusok.deps.json
+H:\Asztali\feladatsor_ciklusok\bin\Debug\net10.0\feladatsor_ciklusok.runtimeconfig.json
+H:\Asztali\feladatsor_ciklusok\bin\Debug\net10.0\feladatsor_ciklusok.dll
+H:\Asztali\feladatsor_ciklusok\bin\Debug\net10.0\feladatsor_ciklusok.pdb
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.dll
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\refint\feladatsor_ciklusok.dll
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.pdb
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\feladatsor_ciklusok.genruntimeconfig.cache
+H:\Asztali\feladatsor_ciklusok\obj\Debug\net10.0\ref\feladatsor_ciklusok.dll
